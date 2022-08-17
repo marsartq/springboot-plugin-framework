@@ -1,10 +1,11 @@
 package com.marsart.plugin.register;
 
-import com.marsart.plugin.NtsPlugin;
-import com.marsart.plugin.PluginPipeProcessor;
 import org.springframework.context.ApplicationContext;
 import org.springframework.web.context.support.GenericWebApplicationContext;
 import org.springframework.web.servlet.DispatcherServlet;
+
+import com.marsart.plugin.NtsPlugin;
+import com.marsart.plugin.PluginPipeProcessor;
 
 
 /**
