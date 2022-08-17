@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.marsart.plugin.PluginAppSpringBootAutoConfiguration
+org.springframework.context.ApplicationContextInitializer=com.marsart.plugin.spring.PluginFrameworkInitializer
+org.springframework.boot.SpringApplicationRunListener=com.marsart.plugin.spring.PluginSpringApplicationRunListener
